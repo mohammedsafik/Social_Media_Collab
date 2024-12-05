@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# build output
+/frontend/build/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# logs
+*.log
+npm-debug.log*
+
+# misc
+.DS_Store
+Thumbs.db
